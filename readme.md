@@ -33,3 +33,12 @@ divider - делитель для экономии газа в zkSync
 ```
 npm start
 ```
+
+---
+
+## Other Projects by Author
+
+- **[HoneyChat](https://honeychat.bot)** — AI companion platform (web + Telegram), [GitHub](https://github.com/sm1ck/honeychat) · [@HoneyChatAIBot](https://t.me/HoneyChatAIBot)
+- [layerzero-aptos](https://github.com/sm1ck/layerzero-aptos) · [snapshotvoter](https://github.com/sm1ck/snapshotvoter) · [TestnetBridge](https://github.com/sm1ck/TestnetBridge)
+
+Contact: [t.me/haruto_j](https://t.me/haruto_j)
